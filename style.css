@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+.t1{
+
+    font: bold;
+}
+ .t2{
+    align-content: center;
+    font: bold;
+ }
+ .t3{
+    font-size: 20px;
+ }
+ .pre{
+    text-align: left;
+    text-size-adjust: 1px;
+ }
+ hr{
+    border-style: none;
+    border-color: gray;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+ }
